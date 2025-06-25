@@ -9,8 +9,8 @@
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge)](https://github.com/your-username/ecommerce-website)
-[![Code Coverage](https://img.shields.io/badge/Code%20Coverage-85%25-brightgreen?style=for-the-badge)](https://github.com/your-username/ecommerce-website)
+[![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge)](https://github.com/Divyansnh/E-Commerece-Website)
+[![Code Coverage](https://img.shields.io/badge/Code%20Coverage-85%25-brightgreen?style=for-the-badge)](https://github.com/Divyansnh/E-Commerece-Website)
 
 *A comprehensive e-commerce management system built with ASP.NET Web Forms, featuring robust administrative controls and comprehensive testing*
 
@@ -185,8 +185,8 @@ This is a **full-stack e-commerce management system** that demonstrates enterpri
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/ecommerce-website.git
-   cd ecommerce-website
+   git clone https://github.com/Divyansnh/E-Commerece-Website.git
+   cd E-Commerece-Website
    ```
 
 2. **Open in Visual Studio**
@@ -310,7 +310,7 @@ We welcome contributions from developers! Here's how you can help:
 - Ensure all tests pass before submitting
 
 ### 🐛 **Bug Reports**
-Please use the [issue tracker](https://github.com/your-username/ecommerce-website/issues) to report bugs or request features.
+Please use the [GitHub repository](https://github.com/Divyansnh/E-Commerece-Website) to report bugs or request features by creating an issue or pull request.
 
 ---
 
@@ -324,12 +324,12 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### 🌟 **Show your support by giving this project a star!**
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/ecommerce-website?style=social)](https://github.com/your-username/ecommerce-website)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/ecommerce-website?style=social)](https://github.com/your-username/ecommerce-website)
+[![GitHub stars](https://img.shields.io/github/stars/Divyansnh/E-Commerece-Website?style=social)](https://github.com/Divyansnh/E-Commerece-Website)
+[![GitHub forks](https://img.shields.io/github/forks/Divyansnh/E-Commerece-Website?style=social)](https://github.com/Divyansnh/E-Commerece-Website)
 
 **Built with ❤️ using ASP.NET and C#**
 
-*Connect with me: [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)*
+*Connect with me: [LinkedIn](https://linkedin.com/in/divyansh-singh) | [GitHub](https://github.com/Divyansnh)*
 
 </div>
 
