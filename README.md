@@ -329,7 +329,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Built with ❤️ using ASP.NET and C#**
 
-*Connect with me: [LinkedIn](https://linkedin.com/in/divyansh-singh) | [GitHub](https://github.com/Divyansnh)*
+*Connect with me: [GitHub](https://github.com/Divyansnh)*
 
 </div>
 
